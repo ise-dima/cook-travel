@@ -582,15 +582,15 @@ footer ul li {
 }
 .slider_wrap span.next {
   right: 0; /*отступ с право на лево (настраивается внутри блока) */
-  background-position: -15px 0;
+  background-position: -15px 0; /**/
 }
 .slider_wrap span.next:hover { /*hover-изменения текста при наведения мышки (дочерний блок)*/
-  background-position: -15px -26px;
+  background-position: -15px -26px; /**/
 }
 .slider_wrap span.prev {
   left: 0; /*отступ с лево на право (настраивается внутри блока) */
-  background-position: 0 0;
+  background-position: 0 0; /**/
 }
 .slider_wrap span.prev:hover { /*hover-изменения текста при наведения мышки (дочерний блок)*/
-  background-position: 0 -26px;
+  background-position: 0 -26px; /**/
 }
